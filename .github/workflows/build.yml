@@ -65,12 +65,14 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: ${{ matrix.platform }}
-          path: vcpkg-output/*
+          path: |
+            vcpkg-output/*
+            !vcpkg-output/tools
           if-no-files-found: error
   release:
     name: Release
     needs: install
-    #if: ${{ github.ref == 'refs/heads/master' }}
+    if: ${{ github.ref == 'refs/heads/master' }}
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
