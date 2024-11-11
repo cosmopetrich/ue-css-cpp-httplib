@@ -1,0 +1,16 @@
+20d0a87a96bc25a3af7557075be87be4393e88a5fb564db08e92884dee17d841  ./include/brotli/decode.h
+3403a597eff24ff45903128feb471e4dd5138f624104ebe058a9d90ed905550c  ./include/brotli/encode.h
+d87dae6cce00aff76192a1db4fedc2a817967e14e652829349b8a75088f9e467  ./include/brotli/port.h
+86230f0aaf533044d85d92f84b5aec8b7e4e231d4b64b098604083e7866e8097  ./include/brotli/shared_dictionary.h
+96c9330e790aa6fe53f4cdd328d0a4b98e361b82913baa3219db73aadb11272c  ./include/brotli/types.h
+fbf97ddfa0e36412d37b85b01bd794dfc6711a9d5367d70776b6b5905a1b32e0  ./include/httplib.h
+d0b6d84eaafded9e5c5c8fe7328022f87bd72c5cde3609de907c798ac899b745  ./lib/Linux/libbrotlicommon.a
+bf2a1c9356485be5ab4c3e90573426a53581d4c5f8bba7b9f3a3625a05d59a50  ./lib/Linux/libbrotlidec.a
+2067ea4e4f2c16e7194615f00a2b99b9c6e4589f868bdfe79f0d9fd64022f92d  ./lib/Linux/libbrotlienc.a
+33a86e84f4a9505e822c643ea33c48e7179d03c5c214e25735fc43ec2b88238c  ./lib/Win64/brotlicommon.lib
+8cc9b6be3c32d5df1765c1cad2bdffebb0e29b137fd443b2c5ef1d570c9a0d75  ./lib/Win64/brotlidec.lib
+270acd524ec3abced6b9ec12b662c3adb62b550123005829116394bfe57766b6  ./lib/Win64/brotlienc.lib
+3d180008e36922a4e8daec11c34c7af264fed5962d07924aea928c38e8663c94  ./share/brotli/copyright
+4b45cbe16d7b71b89ae6127e26e0d90a029198ca5e958ad8e3d0b8bbed364d8b  ./share/cpp-httplib/copyright
+e0467373acda6b2032b6cbc6b3ef488b1cf66721f0003a5ed2fa27d53902407b  ./tools/Linux/brotli
+1257eed18ee7cd8dc6d387beef701fda69a827bfc909c72a1f69de55b8cf0772  ./tools/Win64/brotli.exe
