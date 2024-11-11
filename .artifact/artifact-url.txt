@@ -1,0 +1,1 @@
+https://github.com/cosmopetrich/ue-css-cpp-httplib/releases/download/v0.18.0-1/httplib-0.18.0-1.zip
